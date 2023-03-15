@@ -1,0 +1,16 @@
+{
+  "name": "Sleep Tracker",
+  "short_name": "Sleep Tracker",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#eef4fe",
+  "background_color": "#ebeef2",
+  "icons": [
+    {
+      "src": "/src/assets/sleeping.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
