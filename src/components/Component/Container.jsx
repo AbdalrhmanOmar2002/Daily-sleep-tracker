@@ -3,7 +3,7 @@ import { useSelector } from "react-redux";
 import Modal from "./smole/Modal";
 import PopEntry from "./smole/PopEntry";
 import Graph from "./smole/Graph";
-import Sleep from "../../assets/sleeping.png";
+import Sleep from "../../../public/sleeping.png";
 
 const Container = ({ data: { photoUrl } }) => {
   const [userExists, setUserExists] = useState(false);

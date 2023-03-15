@@ -2,7 +2,7 @@ import { onAuthStateChanged } from "firebase/auth";
 import React, { useEffect, useState } from "react";
 import { auth, db } from "../../firebase";
 import SignupButton from "./Signup/SignupButton";
-import Sleeping from "../assets/sleeping.png";
+import Sleeping from "../../public/sleeping.png";
 import ReactLoading from "react-loading";
 import Container from "./Component/Container";
 import { useDispatch, useSelector } from "react-redux";

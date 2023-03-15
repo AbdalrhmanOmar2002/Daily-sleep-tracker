@@ -7,7 +7,7 @@
   "background_color": "#ebeef2",
   "icons": [
     {
-      "src": "/src/assets/sleeping.png",
+      "src": "./public/sleeping.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
